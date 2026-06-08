@@ -3,7 +3,7 @@
 <p align="center">
   IT graduate from <b>Delhi Technological University (2025)</b> · Backend-leaning full-stack engineer
   <br/>
-  I build production-deployed apps that solve real engineering problems — not tutorial clones.
+  I build production-deployed apps that solve real engineering problems.
 </p>
 
 <p align="center">
