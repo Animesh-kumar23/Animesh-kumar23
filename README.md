@@ -86,9 +86,9 @@
 
 ## 🏆 Highlights
 
-- 🥷 **LeetCode Knight** — Rating **1908** (top **4.24%**); best contest rank **637 / 31,204** in Weekly Contest 502
+- 🥷 **LeetCode Knight** — Rating **1939** (top **3.59%**); best contest rank **637 / 31,204** in Weekly Contest 502
 - 🏅 **Winner — Constellation: Chainlink Hackathon** (Web3, built an on-chain voting platform)
-- 🧠 **300+ DSA problems** solved across LeetCode & GeeksforGeeks
+- 🧠 **400+ DSA problems** solved across LeetCode & GeeksforGeeks
 - 🎓 **B.Tech IT, Delhi Technological University** — CGPA 7.41
 - ⌨️ Built a **typing-speed test website** used internally at DTU
 
