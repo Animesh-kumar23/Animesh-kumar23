@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-SDE%20%2F%20Full--Stack-22c55e?style=for-the-badge" alt="Open to Work"/>
   <img src="https://img.shields.io/badge/Location-India-1155cc?style=for-the-badge" alt="India"/>
-  <img src="https://img.shields.io/badge/LeetCode-Knight%20(1908)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Knight"/>
+  <img src="https://img.shields.io/badge/LeetCode-Knight%20(1939)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Knight"/>
 </p>
 
 <p align="center">
